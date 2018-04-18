@@ -1,11 +1,15 @@
 import React from 'react';
+import yoga from '../img/yoga.jpg';
 
 const Home = () => (
     <home>
-        <div className="container-fluid bg-1 text-center">
-            <h3>Who Am I?</h3>
-            <img src="bird.jpg" className="img-responsive img-circle" styles="display:inline" alt="Bird" width="350" height="350" />
-            <h3>I'm an adventurer</h3>
+        <div id="top" className="container-fluid bg-1 text-center">
+            {/* <img src={yoga} className="img-responsive img-circle" styles="display:inline" alt="me" width="350" height="350" /> */}
+            <div className="container-fluid content">
+                <h3>Lifelong Learner </h3>
+                <h3>A Multitasker  </h3>
+                <h3>TeamPlayer</h3>
+            </div>
         </div>
     </home>
 );

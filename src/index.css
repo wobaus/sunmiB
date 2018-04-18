@@ -1,11 +1,17 @@
 .bg-1 { 
-  background-color: #1abc9c;
-  color: #ffffff;
+  background: url("./img/bg.jpg") no-repeat center;
+  background-size: cover; 
+  color: lightgrey;
 }
+
 .bg-2 { 
   background-color: #474e5d;
   color: #ffffff;
-}
+  padding: 2em;
+  font-family: 'Quicksand';
+  font-weight: lighter;
+
+ }
 .bg-3 { 
   background-color: #ffffff;
   color: #555555;
@@ -13,24 +19,39 @@
 .bg-4 { 
   background-color: #2f2f2f;
   color: #fff;
+  font-family: 'lato';
 }
+
 .container-fluid {
   padding-top: 70px;
   padding-bottom: 70px;
+  font-family: 'Quicksand';
 }
+
+.container-fluid p{
+  color: rgb(151, 150, 150);
+}
+.container-fluid h4{
+  font-weight: lighter;
+  color: lightgrey;
+
+}
+
 .navbar {
   padding-top: 15px;
   padding-bottom: 15px;
   border: 0;
   border-radius: 0;
   margin-bottom: 0;
-  font-size: 12px;
-  letter-spacing: 5px;
+  font-size: 20px;
+  letter-spacing: 4px;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
 
+
 }
 .navbar-nav  li a:hover {
-  color: #1abc9c !important;
+  color: 'black' !important;
+
 }

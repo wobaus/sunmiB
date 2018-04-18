@@ -12,13 +12,13 @@ const Header = () => (
                 <span className="icon-bar"></span>
                 <span className="icon-bar"></span>                        
             </button>
-            <a className="navbar-brand">Me</a>
+            <a href="#top" className="navbar-brand">sunmiB</a>
             </div>
             <div className="collapse navbar-collapse" id="myNavbar">
             <ul className="nav navbar-nav navbar-right">
-                <li><a href="https://www.linkedin.com/in/sunmibausmann" target="_black" i className="fa fa-linkedin-square"></a></li>
-                <li><a href="https://github.com/wobaus" i className="fa fa-github"></a></li>
-                <li><a href="mailto:wobaus@gmail.com"  i className="fa fa-envelope"></a></li>
+                <li><a href="https://www.linkedin.com/in/sunmibausmann" target="_black" ><i class="fab fa-linkedin"></i></a></li>
+                <li><a href="https://github.com/wobaus"  target="_black" ><i class="fab fa-github-square"></i></a></li>
+                <li><a href="mailto:wobaus@gmail.com"  target="_black"  ><i class="fas fa-envelope"></i></a></li>
             </ul>
             </div>
         </div>
