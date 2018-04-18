@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => (
     <footer>
         <footer class="container-fluid bg-4 text-center">
-            <p>Copyright @ sunmiB </p> 
+            <p>Copyright © 2018 sunmiB </p> 
         </footer>
     </footer>
 

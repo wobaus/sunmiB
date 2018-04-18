@@ -12,15 +12,15 @@ const About = () => (
         <h3>Interest</h3><br/>
         <div class="row">
             <div class="col-sm-4">
-            <p>art</p>
+            <p>Art</p>
             <img src={whales} class="img-responsive" styles="width:100%" alt="Image" />
             </div>
             <div class="col-sm-4"> 
-            <p>travle</p>
+            <p>Travel</p>
             <img src={van} class="img-responsive" styles="width:100%" alt="Image" />
             </div>
             <div class="col-sm-4"> 
-            <p>culture</p>
+            <p>Culture</p>
             <img src={culture} class="img-responsive" styles="width:100%" alt="Image" />
             </div>
         </div>
