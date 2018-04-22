@@ -5,15 +5,16 @@ const Resume = () => (
         <div className="container-fluid bg-2 text-left">
             <div className="container-fluid resumeSection">
                 <h3><i class="fas fa-file"></i> Project  </h3> <br/>
+                <h4>Smart Ring, 2018 March</h4>
+                <p>A web application that displays nearby air quality using with Arduino, Adafruit MiCS5524 CO / Alcohol / VOC Gas Sensor.  </p>
+                <p>Tools Used: Arduino, JavaScript. </p> 
+                <br/>
                 <h4>JustinThyme, 2017 November </h4>
                 <p>An information web application used to guide users on best practices for their gardening projects. </p>
                 <p>Features data storage, user-friendly UI, and dynamic reminders</p> 
                 <p> Tools Used: Java, MySQL, JavaScript, CSS, HTML, Twilio, and SQL </p> 
                 <p> I was in charge of taking logged in user info and display with edit functionality</p> 
-                <br/>
-                <h4>Smart Ring, 2018 March</h4>
-                <p>A web application that displays nearby air quality using with Arduino, Adafruit MiCS5524 CO / Alcohol / VOC Gas Sensor.  </p>
-                <p>Tools Used: Arduino, JavaScript. </p> 
+
             </div>
             <div className="container-fluid resumeSection">
                 <h3><i class="fas fa-graduation-cap"></i> Education  </h3>
@@ -41,15 +42,3 @@ const Resume = () => (
 );
 
 export default Resume;
-
-// <h4>JustinThyme, 2017 November</h4>
-// <p>An information web application used to guide users on best practices for their gardening projects. </p>
-// <p>Features data storage, user-friendly UI, and dynamic reminders</p> 
-// <p> Tools Used: Java, MySQL, JavaScript, CSS, HTML, Twilio, and SQL </p> 
-// <p> I was in charge of taking logged in user info and display with edit functionality</p> 
-// <p></p> 
-// <p></p> 
-
-// Smart Ring, 2018 March
-// A web application that displays nearby air quality using with Arduino, Adafruit MiCS5524 CO / Alcohol / VOC Gas Sensor. 
-// Tools Used: Arduino, JavaScript. 

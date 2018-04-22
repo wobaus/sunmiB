@@ -7,7 +7,7 @@ const Home = () => (
             {/* <img src={yoga} className="img-responsive img-circle" styles="display:inline" alt="me" width="350" height="350" /> */}
             <div className="container-fluid content">
                 <h3>Lifelong Learner </h3>
-                <h3>A Multitasker  </h3>
+                <h3>Multitasker  </h3>
                 <h3>TeamPlayer</h3>
             </div>
         </div>
