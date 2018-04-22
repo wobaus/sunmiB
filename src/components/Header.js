@@ -18,7 +18,7 @@ const Header = () => (
             <ul className="nav navbar-nav navbar-right">
                 <li><a href="https://www.linkedin.com/in/sunmibausmann" target="_black" ><i class="fab fa-linkedin"></i></a></li>
                 <li><a href="https://github.com/wobaus"  target="_black" ><i class="fab fa-github-square"></i></a></li>
-                <li><a href="mailto:wobaus@gmail.com"  target="_black"  ><i class="fas fa-envelope"></i></a></li>
+                <li><a href="mailto:info@sunmib.com"  target="_black"  ><i class="fas fa-envelope"></i></a></li>
             </ul>
             </div>
         </div>
